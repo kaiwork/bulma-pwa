@@ -1,0 +1,37 @@
+{
+  "name": "bulma pwa site",
+  "short_name": "bulmaPwa",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#AFDEDC",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/icons/72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/images/icons/80.png",
+      "type": "image/png",
+      "sizes": "80x80"
+    },
+    {
+      "src": "/images/icons/100.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "/images/icons/128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/images/icons/144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+    
+  ]
+}
